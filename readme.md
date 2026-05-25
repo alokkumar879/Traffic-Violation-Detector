@@ -55,8 +55,8 @@ Copy code
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/siddhant1729/traffic-violation-detector.git
-cd traffic-violation-detector
+git clone https:https://github.com/alokkumar879/Traffic-Violation-Detector.git
+
 2️⃣ Create Virtual Environment
 bash
 Copy code
@@ -95,10 +95,8 @@ Daily CSV report
 Streamlit dashboard screenshots
 
 👨‍💻 Author
-Siddhant
+Alok kumar
 CSE Undergrad | Competitive Programmer | AI/ML Enthusiast
 📍JIIT Noida
 
 
-🏁 License
-This project is open-source and available under the MIT License
